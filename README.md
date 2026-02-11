@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Owner Of 1secemail]
+# Hi there 👋, I'm Owner Of 1secemail
 ### Founder of 1secemail.com 📧
 
 I am a web developer passionate about building tools that simplify digital life. Currently, I am focused on providing the fastest temporary email service to help users stay safe from spam.

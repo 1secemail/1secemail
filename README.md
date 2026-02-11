@@ -17,7 +17,7 @@ I am a web developer passionate about building tools that simplify digital life.
 ### 🌐 Connect with Me
 - **Website**: [1secemail.com](https://1secemail.com)
 - **Telegram**: [Join Our Channel](https://t.me/onesecemail)
-- **Twitter**: [Join X](@1secemail)
+- **Twitter**: [Join X](https://x.com/1secemail)
 
 ---
 *Stay secure, stay private!*

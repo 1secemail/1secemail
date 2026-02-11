@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm [Owner Of 1secemail]
+### Founder of 1secemail.com 📧
 
-<!--
-**1secemail/1secemail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web developer passionate about building tools that simplify digital life. Currently, I am focused on providing the fastest temporary email service to help users stay safe from spam.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Services
+- **[1secEmail](https://1secemail.com)**: A high-speed disposable temporary email service. 
+- **Goal**: Protecting user privacy and keeping inboxes clean from unwanted advertisements.
+
+### 🛠️ Tech Stack
+- **Web Development**: HTML, CSS, JavaScript
+- **Service**: Temporary Mail API Integration
+- **Platform**: GitHub & Web Hosting
+
+### 🌐 Connect with Me
+- **Website**: [1secemail.com](https://1secemail.com)
+- **Telegram**: [Join Our Channel](https://t.me/onesecemail)
+- **Twitter**: [Join X](@1secemail)
+
+---
+*Stay secure, stay private!*
